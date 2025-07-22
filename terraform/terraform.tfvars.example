@@ -1,0 +1,5 @@
+aws_region = "us-east-2"
+app_name = "profilesapp"
+repository_url = "https://github.com/abhay-codeium/profilesapp"
+github_access_token = "your-github-access-token-here"
+environment = "main"
